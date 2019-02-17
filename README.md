@@ -1,0 +1,2 @@
+# FPS_Game
+The Drug cartel is a first person shooting game consist of two levels. The complete game has been designed using Unity3d, C# scripting language, blender for 3d modeling and adobe photoshop CS6. The game has two levels. The level 1 is a drug dealing scene having five objectives, with various features such as sniper with a scope, a hand granade, M14 machine Gun, etc. The level 2 is a house scene which is guarded with many men, the player has to kill all the men to finish the level.
